@@ -7,7 +7,11 @@
             // Acceder a la matriz de películas a través del objeto principal
             data.peliculas.forEach(pelicula => {
                 const peliculaDiv = document.createElement('div');
-                peliculaDiv.innerHTML = `<h4>${pelicula.nombre}</h4><p> Nota ${pelicula.nota}/10</p>`;
+                peliculaDiv.innerHTML = 
+                `<h4>${pelicula.nombre}</h4>
+                <p>Nota ${pelicula.nota}/10</p>
+                <p>Año de lanzamiento: ${pelicula.añoLanzamiento} </p
+                <p>Año de visualización: ${pelicula.añoVisualización} </p`;
                 document.querySelector('.container').appendChild(peliculaDiv);
             });
           });
