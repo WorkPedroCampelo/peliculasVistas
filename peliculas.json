@@ -1,0 +1,18 @@
+{
+    "peliculas": [
+        {
+            "id":1,
+            "nombre":"Shutter Island",
+            "nota": 10,
+            "añoLanzamiento":2012,
+            "añoVisualización":2021
+        },
+        {
+            "id":2,
+            "nombre":"Interestelar",
+            "nota": 10,
+            "añoLanzamiento":2016,
+            "añoVisualización":2021
+        }
+    ]
+}
