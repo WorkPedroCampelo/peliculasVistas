@@ -1,12 +1,15 @@
-.navDiv{
-
-    background-color: coral;
+.pelisDiv{
+    background-color: brown;
+    height: 200px;
+    padding: 0.5em;
+    border: 2px solid black;
+    display: inline-block;
+    margin: 0.5em;
+    width: 10em;
+    
 }
 .color1{
-    background-color: aqua;
-}
-.color2{
-    background-color: brown;
+    background-color: aquamarine;
 }
 
 .color4{
@@ -14,4 +17,13 @@
 }
 h4{
     background-color: aqua;
+
+}
+
+.navDiv{
+    background-color: coral;
+}
+.pelisDivFather{
+    background-color: rgba(0, 255, 157, 0.473);
+    display: inline-block;
 }

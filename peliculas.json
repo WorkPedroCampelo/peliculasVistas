@@ -13,6 +13,77 @@
             "nota": 10,
             "añoLanzamiento":2016,
             "añoVisualización":2021
+        },
+        {
+            "id":3,
+            "nombre":"Jurasic pal",
+            "nota":7,
+            "añoLanzamiento":2012,
+            "añoVisualización":2016
+
+        },
+        {
+            "id": 4,
+            "nombre": "El club de la pelea",
+            "nota": 9,
+            "añoLanzamiento": 1999,
+            "añoVisualización": 2021
+        },
+        {
+            "id": 5,
+            "nombre": "El señor de los anillos: El retorno del rey",
+            "nota": 10,
+            "añoLanzamiento": 2003,
+            "añoVisualización": 2021
+        },
+        {
+            "id": 6,
+            "nombre": "Mad Max: Furia en el camino",
+            "nota": 9,
+            "añoLanzamiento": 2015,
+            "añoVisualización": 2021
+        },
+        {
+            "id": 7,
+            "nombre": "La la land",
+            "nota": 8,
+            "añoLanzamiento": 2016,
+            "añoVisualización": 2021
+        },
+        {
+            "id": 8,
+            "nombre": "El renacido",
+            "nota": 9,
+            "añoLanzamiento": 2015,
+            "añoVisualización": 2021
+        },
+        {
+            "id": 9,
+            "nombre": "Dunkerque",
+            "nota": 9,
+            "añoLanzamiento": 2017,
+            "añoVisualización": 2021
+        },
+        {
+            "id": 10,
+            "nombre": "Deadpool",
+            "nota": 8,
+            "añoLanzamiento": 2016,
+            "añoVisualización": 2021
+        },
+        {
+            "id": 11,
+            "nombre": "Doctor Strange",
+            "nota": 7,
+            "añoLanzamiento": 2016,
+            "añoVisualización": 2021
+        },
+        {
+            "id": 12,
+            "nombre": "Guardianes de la galaxia",
+            "nota": 9,
+            "añoLanzamiento": 2014,
+            "añoVisualización": 2021
         }
     ]
 }
