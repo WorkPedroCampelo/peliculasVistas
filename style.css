@@ -1,29 +1,21 @@
-.pelisDiv{
-    background-color: brown;
-    height: 200px;
-    padding: 0.5em;
-    border: 2px solid black;
-    display: inline-block;
-    margin: 0.5em;
-    width: 10em;
-    
-}
-.color1{
-    background-color: aquamarine;
-}
-
-.color4{
-    background-color: slategray;
-}
-h4{
-    background-color: aqua;
-
-}
-
 .navDiv{
     background-color: coral;
 }
 .pelisDivFather{
     background-color: rgba(0, 255, 157, 0.473);
+    margin: 2%;
     display: inline-block;
+}
+.pelisDiv{
+    background-color: brown;
+    max-height: 15em;
+    height: 15em;
+    min-height: 15em;
+    padding: 0.2em;
+    border: 2px solid black;
+    margin: 0.5em;
+    width: 10em;
+}
+.tituloPeli{
+    background-color: aqua;
 }

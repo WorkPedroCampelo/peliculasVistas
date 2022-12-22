@@ -42,8 +42,7 @@
             "nota": 9,
             "añoLanzamiento": 2015,
             "añoVisualización": 2021
-        },
-        {
+        },        {
             "id": 7,
             "nombre": "La la land",
             "nota": 8,
@@ -85,5 +84,6 @@
             "añoLanzamiento": 2014,
             "añoVisualización": 2021
         }
+
     ]
 }

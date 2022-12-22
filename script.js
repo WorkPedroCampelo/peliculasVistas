@@ -1,4 +1,6 @@
 
+//FUNCIONA PERFECTAMENTE, FALLAN LOS ESTILOS
+
 function cargarDatos() {
   // Realizar una solicitud HTTP a la URL del archivo JSON
   fetch('peliculas.json')
@@ -10,7 +12,7 @@ function cargarDatos() {
         peliculaDiv.className='pelisDivFather';
         peliculaDiv.innerHTML =
                 `<div class="pelisDiv">
-                  <h4>${pelicula.nombre}</h4>
+                  <p class="tituloPeli"><b>${pelicula.nombre}</b></p>
                   <p>Nota ${pelicula.nota}/10</p>
                   <p>Año de lanzamiento: ${pelicula.añoLanzamiento} </p>
                   <p>Año de visualización: ${pelicula.añoVisualización} </p>
