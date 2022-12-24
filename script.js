@@ -9,10 +9,12 @@ function cargarDatos() {
       // Acceder a la matriz de películas a través del objeto principal
       data.peliculas.forEach(pelicula => {
         const peliculaDiv = document.createElement('div');
-        peliculaDiv.className='pelisDivFather';
+        peliculaDiv.className = 'pelisDivFather';
         peliculaDiv.innerHTML =
                 `<div class="pelisDiv">
-                  <p class="tituloPeli"><b>${pelicula.nombre}</b></p>
+                  <div class="tituloPeli">
+                  <p class="tituloPeli2"><b>${pelicula.nombre}</b></p> 
+                  </div>
                   <p>Nota ${pelicula.nota}/10</p>
                   <p>Año de lanzamiento: ${pelicula.añoLanzamiento} </p>
                   <p>Año de visualización: ${pelicula.añoVisualización} </p>

@@ -1,10 +1,12 @@
-.navDiv{
+nav{
     background-color: coral;
+    
 }
 .pelisDivFather{
     background-color: rgba(0, 255, 157, 0.473);
-    margin: 2%;
+    margin: 0.15%;
     display: inline-block;
+    opacity: 80%;
 }
 .pelisDiv{
     background-color: brown;
@@ -17,5 +19,27 @@
     width: 10em;
 }
 .tituloPeli{
+    background-color: brown;
+    
+}
+
+.tituloPeli2{
     background-color: aqua;
+    height: 40px;
+    margin: auto;
+}
+body{
+    background-color:rgba(139, 0, 0, 0.74) ;
+}
+
+h3{
+    display: inline;
+}
+.navDiv{
+    display: inline;
+    margin: auto;
+}
+
+.pelisDivFather:hover{
+    opacity: 100%;
 }
