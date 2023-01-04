@@ -1,13 +1,32 @@
+body{
+    background-color:rgba(139, 0, 0, 0.74) ;
+}
+
 nav{
     background-color: coral;
+}
+
+
+.container{
+    text-align: center;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+
+.pelisDivFather{
+    background-image: linear-gradient(rgba(0, 255, 157), blue);
+    margin: 1%;
+    display: inline-flex;
+    opacity: 75%;
     
 }
-.pelisDivFather{
-    background-color: rgba(0, 255, 157, 0.473);
-    margin: 0.15%;
-    display: inline-block;
-    opacity: 80%;
+
+.pelisDivFather:hover{
+    opacity: 100%;
+    transform: scale(1.1);
 }
+
 .pelisDiv{
     background-color: brown;
     max-height: 15em;
@@ -19,27 +38,24 @@ nav{
     width: 10em;
 }
 .tituloPeli{
-    background-color: brown;
-    
+
+    background-color: aqua;
+
 }
 
-.tituloPeli2{
-    background-color: aqua;
-    height: 40px;
-    margin: auto;
-}
-body{
-    background-color:rgba(139, 0, 0, 0.74) ;
-}
 
 h3{
     display: inline;
-}
-.navDiv{
-    display: inline;
-    margin: auto;
+    margin-right: 5%;
 }
 
-.pelisDivFather:hover{
-    opacity: 100%;
+
+.navDiv{
+    display: inline;
+    width: 100%;
+    text-align: center;
+}
+.spanNavDiv{
+    display: inline;
+    margin-right: 5%;
 }

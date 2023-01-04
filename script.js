@@ -13,7 +13,7 @@ function cargarDatos() {
         peliculaDiv.innerHTML =
                 `<div class="pelisDiv">
                   <div class="tituloPeli">
-                  <p class="tituloPeli2"><b>${pelicula.nombre}</b></p> 
+                  <p> <b>${pelicula.nombre}</b></p> 
                   </div>
                   <p>Nota ${pelicula.nota}/10</p>
                   <p>Año de lanzamiento: ${pelicula.añoLanzamiento} </p>
