@@ -83,7 +83,77 @@
             "nota": 9,
             "añoLanzamiento": 2014,
             "añoVisualización": 2021
-        }
+        },
+        {
+            "id": 13,
+            "nombre": "Inception",
+            "nota": 10,
+            "añoLanzamiento": 2010,
+            "añoVisualización": 2021
+            },
+            {
+            "id": 14,
+            "nombre": "El rey león",
+            "nota": 9,
+            "añoLanzamiento": 2019,
+            "añoVisualización": 2021
+            },
+            {
+            "id": 15,
+            "nombre": "Toy Story 4",
+            "nota": 8,
+            "añoLanzamiento": 2019,
+            "añoVisualización": 2021
+            },
+            {
+            "id": 16,
+            "nombre": "Joker",
+            "nota": 10,
+            "añoLanzamiento": 2019,
+            "añoVisualización": 2021
+            },
+            {
+            "id": 17,
+            "nombre": "La forma del agua",
+            "nota": 8,
+            "añoLanzamiento": 2017,
+            "añoVisualización": 2021
+            },
+            {
+            "id": 18,
+            "nombre": "Bohemian Rhapsody",
+            "nota": 9,
+            "añoLanzamiento": 2018,
+            "añoVisualización": 2021
+            },
+            {
+            "id": 19,
+            "nombre": "Black Panther",
+            "nota": 9,
+            "añoLanzamiento": 2018,
+            "añoVisualización": 2021
+            },
+            {
+            "id": 20,
+            "nombre": "Moonlight",
+            "nota": 10,
+            "añoLanzamiento": 2016,
+            "añoVisualización": 2021
+            },
+            {
+            "id": 21,
+            "nombre": "Nunca es tarde",
+            "nota": 8,
+            "añoLanzamiento": 2020,
+            "añoVisualización": 2021
+            },
+            {
+            "id": 22,
+            "nombre": "The Social Network",
+            "nota": 9,
+            "añoLanzamiento": 2010,
+            "añoVisualización": 2021
+            }
 
     ]
 }
