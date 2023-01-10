@@ -1,9 +1,15 @@
 body{
-    background-color:rgba(139, 0, 0, 0.74) ;
+    background-color:#39f5718c ;
+    font-family: Sketcomic;
+}
+
+@font-face {
+    font-family:Sketcomic ;
+    src: url(./fonts/sketcomic/Sketcomic.ttf);
 }
 
 nav{
-    background-color: coral;
+    background-color: rgb(230, 183, 137);
 }
 
 
@@ -15,20 +21,20 @@ nav{
 
 
 .pelisDivFather{
-    background-image: linear-gradient(rgba(0, 255, 157), blue);
+    background-image: linear-gradient(#16A842, #9E51F5);
     margin: 1%;
     display: inline-flex;
-    opacity: 75%;
+    opacity: 92%;
     
 }
 
 .pelisDivFather:hover{
     opacity: 100%;
-    transform: scale(1.1);
+    transform: scale(1.10);
 }
 
 .pelisDiv{
-    background-color: brown;
+    background-color: #f2f551a9;
     max-height: 15em;
     height: 15em;
     min-height: 15em;
